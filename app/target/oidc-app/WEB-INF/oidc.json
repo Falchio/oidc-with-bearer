@@ -1,0 +1,8 @@
+{
+    "client-id" : "app",
+    "provider-url" : "${env.OIDC_PROVIDER_URL:http://localhost:7979}/realms/wildfly-realm",
+    "ssl-required" : "EXTERNAL",
+    "credentials" : {
+        "secret" : "0AnHKHMJFLlATiuhDf9Y280Kh8wB18GX"
+    }
+}

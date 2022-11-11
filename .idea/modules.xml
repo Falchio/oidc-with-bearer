@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/oidc-with-bearer.iml" filepath="$PROJECT_DIR$/.idea/oidc-with-bearer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/oidc-with-bearer-app.iml" filepath="$PROJECT_DIR$/app/oidc-with-bearer-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service/oidc-with-bearer-service.iml" filepath="$PROJECT_DIR$/service/oidc-with-bearer-service.iml" />
+    </modules>
+  </component>
+</project>

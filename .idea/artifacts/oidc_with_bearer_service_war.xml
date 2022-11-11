@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="oidc-with-bearer-service:war">
+    <output-path>$PROJECT_DIR$/service/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>oidc-with-bearer-service</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="service.war">
+      <element id="artifact" artifact-name="oidc-with-bearer-service:war exploded" />
+    </root>
+  </artifact>
+</component>
